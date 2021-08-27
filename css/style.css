@@ -1,3 +1,7 @@
 * {font-family: 'Grenze Gotisch', cursive;}
+body {background-color: #33FFB2;}
 h4{font-weight: 900; text-shadow: 0 0 7px #fff; font-size: 35px;}
 h2{font-weight: 900; text-shadow: 0 0 7px #fff; font-size: 25px;}
+.banner {width: 100%; text-align: center; padding: 10% 4%;
+ background: url(../img/template.jpg) no-repeat fixed; margin-top: 70px; margin-bottom: 70px;
+  align-content: center;}
