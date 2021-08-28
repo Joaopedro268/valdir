@@ -1,9 +1,9 @@
 * {font-family: 'Grenze Gotisch', cursive;}
-body {background-color: #33FFB2;}
+body {background-image: linear-gradient(to bottom, #00FFBF, #0000FF);}
 h4{font-weight: 900; text-shadow: 0 0 7px #fff; font-size: 35px;}
 h3{font-weight: 900; text-shadow: 0 0 7px #fff; font-size: 25px;}
 h2{font-weight: 900; text-shadow: 0 0 7px #fff; font-size: 25px;}
 h1{font-weight: 900; text-shadow: 0 0 7px #fff; font-size: 35px;}
-.banner {width: 100%; text-align: center; padding: 10% 4%;
+.banner {width: 100%; text-align: center; padding: 10% 0.1%;
  background: url(../img/template.jpg) no-repeat fixed; margin-top: 70px; margin-bottom: 70px;
   align-content: center;float: left;}
